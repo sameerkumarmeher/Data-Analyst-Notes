@@ -242,8 +242,8 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 
 | Tool               | Download                                                              | Documentation                                  |
 | ------------------ | --------------------------------------------------------------------- | ---------------------------------------------- |
-| 📊 Microsoft Excel | [Download](https://www.microsoft.com/en-us/microsoft-365/excel)       | [Learn](https://support.microsoft.com/excel)   |
-| 🗄️ MySQL          | [Download](https://dev.mysql.com/downloads/)                          | [Docs](https://dev.mysql.com/doc/)             |
+| 📊 Microsoft Excel | [Download](https://www.microsoft.com/en-us/microsoft-365/excel)       | [Learn](https://www.geeksforgeeks.org/excel/excel-tutorial/)   |
+| 🗄️ MySQL          | [Download](https://dev.mysql.com/downloads/)                          | [Docs](https://www.geeksforgeeks.org/mysql/mysql-tutorial/)             |
 | 🐘 PostgreSQL      | [Download](https://www.postgresql.org/download/)                      | [Docs](https://www.postgresql.org/docs/)       |
 | 🏢 SQL Server      | [Download](https://www.microsoft.com/sql-server/sql-server-downloads) | [Docs](https://learn.microsoft.com/sql/)       |
 | 📈 Power BI        | [Download](https://powerbi.microsoft.com/desktop/)                    | [Learn](https://learn.microsoft.com/power-bi/) |
