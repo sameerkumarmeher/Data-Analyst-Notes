@@ -1,12 +1,38 @@
+<div align="center">
+
 # 📊 Data Analyst Notes
 
-Welcome to **Data Analyst Notes** – a one-stop repository for learning and revising the essential concepts of Data Analytics. This repository contains structured notes, interview questions, practice datasets, projects, and examples covering Excel, SQL, Power BI, Tableau, Python, Statistics, and more.
+### 🚀 Master Data Analytics from Beginner to Advanced
+
+**📈 Excel • 🗄️ SQL • 📊 Power BI • 📉 Tableau • 🐍 Python • 📊 Statistics**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analytics+Learning+Hub;Interview+Preparation;Hands-on+Projects;Practice+Datasets;Dashboard+Development"/>
+
+</div>
+
+Welcome to **Data Analyst Notes** – a one-stop repository for learning and revising the essential concepts of Data Analytics. This repository contains structured notes, interview questions, practice datasets, projects, and examples covering **Excel, SQL, Power BI, Tableau, Python, Statistics, and more**.
 
 ---
 
-## 📚 Topics Covered
+<p align="center">
 
-### 📈 Microsoft Excel
+[![Excel](https://img.shields.io/badge/Excel-Learning-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)](https://www.geeksforgeeks.org/excel-tutorial/)
+[![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.geeksforgeeks.org/sql-tutorial/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://www.geeksforgeeks.org/power-bi-tutorial/)
+[![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://www.geeksforgeeks.org/tableau-tutorial/)
+[![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.geeksforgeeks.org/python-programming-language-tutorial/)
+[![Statistics](https://img.shields.io/badge/Statistics-Learning-8A2BE2?style=for-the-badge)](https://www.geeksforgeeks.org/statistics-for-data-science/)
+[![Git](https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://www.geeksforgeeks.org/git-tutorial/)
+[![GitHub](https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://www.geeksforgeeks.org/github/)
+
+</p>
+
+---
+
+# 📚 Topics Covered
+
+<details>
+<summary><strong>📈 Microsoft Excel</strong></summary>
 
 * Excel Basics
 * Data Cleaning
@@ -29,9 +55,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Keyboard Shortcuts
 * Interview Questions
 
+</details>
+
 ---
 
-### 🗄️ SQL
+<details>
+<summary><strong>🗄️ SQL</strong></summary>
 
 * SQL Basics
 * DDL, DML, DCL & TCL
@@ -53,9 +82,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Performance Optimization
 * SQL Interview Questions
 
+</details>
+
 ---
 
-### 📊 Power BI
+<details>
+<summary><strong>📊 Power BI</strong></summary>
 
 * Introduction
 * Power BI Desktop
@@ -81,9 +113,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Dashboard Design
 * Interview Questions
 
+</details>
+
 ---
 
-### 📉 Tableau
+<details>
+<summary><strong>📉 Tableau</strong></summary>
 
 * Tableau Basics
 * Data Connection
@@ -106,9 +141,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Performance Optimization
 * Interview Questions
 
+</details>
+
 ---
 
-### 🐍 Python for Data Analytics
+<details>
+<summary><strong>🐍 Python for Data Analytics</strong></summary>
 
 * Python Basics
 * Variables
@@ -129,9 +167,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Web Scraping
 * Interview Questions
 
+</details>
+
 ---
 
-### 📊 Statistics
+<details>
+<summary><strong>📊 Statistics</strong></summary>
 
 * Mean
 * Median
@@ -148,9 +189,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * A/B Testing
 * Statistical Interview Questions
 
+</details>
+
 ---
 
-### 📂 Projects
+<details>
+<summary><strong>📂 Projects</strong></summary>
 
 * Sales Dashboard
 * HR Dashboard
@@ -161,9 +205,12 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Netflix Data Analysis
 * E-commerce Dashboard
 
+</details>
+
 ---
 
-### 📁 Practice Datasets
+<details>
+<summary><strong>📁 Practice Datasets</strong></summary>
 
 * Sales
 * Employees
@@ -174,54 +221,59 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 * Retail
 * Finance
 
+</details>
+
 ---
 
-### 💼 Interview Preparation
+## 💼 Interview Preparation
 
-* Excel Interview Questions
-* SQL Interview Questions
-* Power BI Interview Questions
-* Tableau Interview Questions
-* Python Interview Questions
-* Statistics Interview Questions
-* Scenario-Based Questions
-* Case Studies
+* 📄 [Excel Interview Questions](Interview/Excel_Interview_Questions.md)
+* 📄 [SQL Interview Questions](Interview/SQL_Interview_Questions.md)
+* 📄 [Power BI Interview Questions](Interview/PowerBI_Interview_Questions.md)
+* 📄 [Tableau Interview Questions](Interview/Tableau_Interview_Questions.md)
+* 📄 [Python Interview Questions](Interview/Python_Interview_Questions.md)
+* 📄 [Statistics Interview Questions](Interview/Statistics_Interview_Questions.md)
+* 📄 [Scenario-Based Interview Questions](Interview/Scenario_Based_Questions.md)
+* 📄 [Case Studies](Interview/Case_Studies.md)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* Microsoft Excel
-* SQL (MySQL, PostgreSQL, SQL Server)
-* Power BI
-* Tableau
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Git & GitHub
+| Tool               | Download                                                              | Documentation                                  |
+| ------------------ | --------------------------------------------------------------------- | ---------------------------------------------- |
+| 📊 Microsoft Excel | [Download](https://www.microsoft.com/en-us/microsoft-365/excel)       | [Learn](https://support.microsoft.com/excel)   |
+| 🗄️ MySQL          | [Download](https://dev.mysql.com/downloads/)                          | [Docs](https://dev.mysql.com/doc/)             |
+| 🐘 PostgreSQL      | [Download](https://www.postgresql.org/download/)                      | [Docs](https://www.postgresql.org/docs/)       |
+| 🏢 SQL Server      | [Download](https://www.microsoft.com/sql-server/sql-server-downloads) | [Docs](https://learn.microsoft.com/sql/)       |
+| 📈 Power BI        | [Download](https://powerbi.microsoft.com/desktop/)                    | [Learn](https://learn.microsoft.com/power-bi/) |
+| 📉 Tableau         | [Download](https://www.tableau.com/products/public/download)          | [Learn](https://help.tableau.com/)             |
+| 🐍 Python          | [Download](https://www.python.org/downloads/)                         | [Docs](https://docs.python.org/3/)             |
+| 🐼 Pandas          | [Install](https://pandas.pydata.org/getting_started.html)             | [Docs](https://pandas.pydata.org/docs/)        |
+| 🔢 NumPy           | [Install](https://numpy.org/install/)                                 | [Docs](https://numpy.org/doc/)                 |
+| 📊 Matplotlib      | [Install](https://matplotlib.org/stable/users/installing.html)        | [Docs](https://matplotlib.org/stable/)         |
+| 🌿 Git             | [Download](https://git-scm.com/downloads)                             | [Docs](https://git-scm.com/doc)                |
+| 🐙 GitHub Desktop  | [Download](https://desktop.github.com/)                               | [Docs](https://docs.github.com/)               |
 
 ---
 
 ## 🎯 Who is this repository for?
 
-* Beginners in Data Analytics
-* Students
-* Working Professionals
-* Job Seekers
-* Interview Preparation
-* Business Intelligence Enthusiasts
+* 📚 Students
+* 👨‍💻 Beginners in Data Analytics
+* 💼 Working Professionals
+* 🎯 Job Seekers
+* 📖 Interview Preparation
+* 📊 Business Intelligence Enthusiasts
 
 ---
 
 ## ⭐ Support
 
-If you find this repository useful:
+If you found this repository helpful:
 
-⭐ Star the repository
-
-🍴 Fork the repository
-
-📢 Share it with others
+* ⭐ Star this repository
+* 🍴 Fork this repository
+* 📢 Share it with others
 
 Happy Learning! 🚀
