@@ -1,0 +1,977 @@
+Product_Key,Product_Name,Brand,Gender,Size,Color
+1,Handbags,Fastrack,Women,M,Pink
+2,Kids Dresses,Anouk,Kids,L,Blue
+3,Bedsheets,Mast & Harbour,Home,XS,Green
+4,Kids Jeans,Maybelline,Kids,XXL,White
+5,Tops,Lakme,Women,XL,Black
+6,Kurtas,Levis,Women,S,Yellow
+7,Moisturizer,HRX,Beauty,XS,Green
+8,Lipstick,Nike,Beauty,Free Size,Beige
+9,Kids Jeans,Maybelline,Kids,XXL,Beige
+10,Kurtas,Roadster,Women,M,Grey
+11,T-Shirts,DressBerry,Men,XS,Black
+12,Handbags,Allen Solly,Women,XL,Red
+13,Kurtas,Nike,Women,L,Yellow
+14,Bedsheets,H&M,Home,S,Black
+15,Wall Decor,WROGN,Home,M,Black
+16,Kids Dresses,Mast & Harbour,Kids,XXL,Green
+17,Kids Jeans,Roadster,Kids,M,White
+18,Kids Shoes,Allen Solly,Kids,XXL,Blue
+19,Bedsheets,Roadster,Home,Free Size,Pink
+20,Sarees,Allen Solly,Women,XL,Beige
+21,Sports Shoes,Levis,Men,Free Size,White
+22,Kids Shoes,Nike,Kids,M,Green
+23,Trousers,HERE&NOW,Men,L,Blue
+24,Sarees,WROGN,Women,XS,White
+25,Kids Jeans,Maybelline,Kids,M,Green
+26,Tops,HERE&NOW,Women,Free Size,Pink
+27,Shirts,Adidas,Men,L,White
+28,Dresses,H&M,Women,XL,Blue
+29,Sarees,Puma,Women,L,Yellow
+30,Sarees,HERE&NOW,Women,Free Size,Green
+31,Kids Shoes,Nike,Kids,L,Yellow
+32,Heels,Fastrack,Women,L,Green
+33,Shirts,Adidas,Men,S,Black
+34,Sports Shoes,Puma,Men,XXL,Red
+35,Bedsheets,DressBerry,Home,XL,White
+36,Trousers,Puma,Men,XXL,Green
+37,Sports Shoes,Maybelline,Men,XS,Black
+38,Kurtas,H&M,Women,S,Grey
+39,Sports Shoes,Nike,Men,XL,Pink
+40,Dresses,H&M,Women,XL,Green
+41,Handbags,HERE&NOW,Women,XXL,Black
+42,Sarees,Adidas,Women,XS,Beige
+43,Dresses,Mast & Harbour,Women,XS,Pink
+44,Sarees,Mast & Harbour,Women,S,Blue
+45,Jeans,Anouk,Men,M,Blue
+46,Sarees,Maybelline,Women,S,Yellow
+47,Watches,H&M,Men,XXL,Beige
+48,Kids Dresses,H&M,Kids,M,Yellow
+49,Kurtas,WROGN,Women,Free Size,Pink
+50,Kids T-Shirts,Levis,Kids,XS,Green
+51,Trousers,Lakme,Men,Free Size,Pink
+52,Face Wash,Lakme,Beauty,XXL,Red
+53,Kids Jeans,Fastrack,Kids,XXL,White
+54,Trousers,HRX,Men,XXL,Green
+55,Jeans,Mast & Harbour,Men,XL,Blue
+56,Tops,Nike,Women,Free Size,Black
+57,Perfume,Lakme,Beauty,Free Size,Black
+58,Moisturizer,Maybelline,Beauty,M,Black
+59,Tops,Maybelline,Women,L,Green
+60,Bath Towels,Anouk,Home,Free Size,Grey
+61,Bath Towels,Allen Solly,Home,XXL,Beige
+62,Shirts,Lakme,Men,XL,Yellow
+63,T-Shirts,Mast & Harbour,Men,XXL,Grey
+64,Sports Shoes,Puma,Men,XS,Red
+65,Sports Shoes,Puma,Men,XL,Grey
+66,Dresses,Fastrack,Women,S,Blue
+67,Tops,Allen Solly,Women,M,Blue
+68,Kids Shoes,Allen Solly,Kids,S,Beige
+69,Kids T-Shirts,Mast & Harbour,Kids,XL,Green
+70,Handbags,Levis,Women,S,Blue
+71,Kids Dresses,Maybelline,Kids,Free Size,Green
+72,Bedsheets,Adidas,Home,XL,Yellow
+73,Tops,Maybelline,Women,XL,Red
+74,Jeans,Puma,Men,S,Red
+75,Dresses,Roadster,Women,XS,Grey
+76,Jeans,HRX,Men,XL,Black
+77,Tops,Lakme,Women,L,Yellow
+78,Shirts,Allen Solly,Men,S,Beige
+79,Kids Jeans,WROGN,Kids,M,Green
+80,Kids Jeans,WROGN,Kids,Free Size,Blue
+81,Sports Shoes,Maybelline,Men,L,Yellow
+82,Tops,HERE&NOW,Women,XL,Yellow
+83,Kids Jeans,H&M,Kids,XS,Beige
+84,Handbags,Fastrack,Women,M,Grey
+85,T-Shirts,Nike,Men,XXL,Grey
+86,Trousers,Lakme,Men,XS,Grey
+87,Kids Dresses,Puma,Kids,XL,Black
+88,Handbags,Mast & Harbour,Women,M,Yellow
+89,Sports Shoes,Adidas,Men,S,Green
+90,Trousers,HRX,Men,XL,Blue
+91,Perfume,Nike,Beauty,L,Black
+92,Kids Dresses,Roadster,Kids,XL,Beige
+93,Lipstick,H&M,Beauty,XL,Red
+94,Kids Dresses,H&M,Kids,XS,Green
+95,Tops,Anouk,Women,L,Yellow
+96,Lipstick,Lakme,Beauty,XXL,Beige
+97,Kids Jeans,Nike,Kids,XL,White
+98,Heels,Allen Solly,Women,XS,Yellow
+99,Heels,Levis,Women,XL,Red
+100,Heels,WROGN,Women,M,Pink
+101,Kurtas,HRX,Women,XXL,Pink
+102,Kids T-Shirts,Levis,Kids,M,Beige
+103,Sports Shoes,WROGN,Men,M,Blue
+104,Kurtas,WROGN,Women,L,Grey
+105,Kurtas,DressBerry,Women,XL,Blue
+106,Kurtas,Mast & Harbour,Women,XXL,Yellow
+107,Face Wash,DressBerry,Beauty,L,Grey
+108,Jeans,Adidas,Men,XS,Pink
+109,Handbags,Levis,Women,S,White
+110,Shirts,Maybelline,Men,L,Green
+111,Shirts,Nike,Men,Free Size,Red
+112,Kids Jeans,HRX,Kids,Free Size,White
+113,Face Wash,Levis,Beauty,S,White
+114,Kurtas,Nike,Women,XXL,Blue
+115,Face Wash,WROGN,Beauty,Free Size,Green
+116,Kurtas,Allen Solly,Women,XXL,Green
+117,Sports Shoes,HRX,Men,Free Size,Beige
+118,Jeans,Mast & Harbour,Men,S,Red
+119,Handbags,DressBerry,Women,XS,Grey
+120,Face Wash,Levis,Beauty,Free Size,Grey
+121,Face Wash,Adidas,Beauty,XS,Beige
+122,Jeans,Levis,Men,XXL,Yellow
+123,Wall Decor,WROGN,Home,XXL,Beige
+124,Sports Shoes,Roadster,Men,XXL,Grey
+125,Handbags,Adidas,Women,XXL,Red
+126,Kurtas,WROGN,Women,L,Blue
+127,Kids Jeans,Levis,Kids,S,Red
+128,Shirts,Nike,Men,Free Size,Pink
+129,Heels,Levis,Women,M,Beige
+130,Sports Shoes,Mast & Harbour,Men,XS,Red
+131,Heels,Lakme,Women,Free Size,Red
+132,Bath Towels,HRX,Home,XL,Blue
+133,Watches,H&M,Men,Free Size,Black
+134,Sports Shoes,WROGN,Men,Free Size,Pink
+135,Kids Dresses,HERE&NOW,Kids,S,White
+136,Sports Shoes,Maybelline,Men,L,White
+137,Handbags,Anouk,Women,S,White
+138,Perfume,Puma,Beauty,XL,Grey
+139,Kids T-Shirts,Maybelline,Kids,Free Size,Blue
+140,Sports Shoes,HERE&NOW,Men,XS,Yellow
+141,T-Shirts,DressBerry,Men,S,Pink
+142,Bath Towels,Allen Solly,Home,XS,White
+143,Bath Towels,Allen Solly,Home,XL,Green
+144,Kids Shoes,WROGN,Kids,S,Green
+145,Wall Decor,Mast & Harbour,Home,XL,Beige
+146,Shampoo,Fastrack,Beauty,S,Yellow
+147,Kids Shoes,H&M,Kids,XXL,Yellow
+148,Dresses,Allen Solly,Women,XXL,Blue
+149,Kids Dresses,Puma,Kids,L,Blue
+150,Tops,Puma,Women,XXL,Grey
+151,Bedsheets,Fastrack,Home,M,Yellow
+152,Kids T-Shirts,Anouk,Kids,XL,Yellow
+153,Wall Decor,Maybelline,Home,M,Green
+154,Handbags,Adidas,Women,L,Pink
+155,Trousers,Levis,Men,M,Beige
+156,Watches,Fastrack,Men,XS,Beige
+157,Jeans,DressBerry,Men,S,Green
+158,T-Shirts,Mast & Harbour,Men,Free Size,Pink
+159,Bedsheets,HRX,Home,XL,White
+160,Kids Dresses,Allen Solly,Kids,Free Size,Black
+161,Heels,DressBerry,Women,Free Size,White
+162,Tops,Roadster,Women,M,Grey
+163,Trousers,Levis,Men,XXL,White
+164,Cushion Covers,H&M,Home,L,Beige
+165,Handbags,HERE&NOW,Women,L,Yellow
+166,Watches,HERE&NOW,Men,Free Size,Yellow
+167,Moisturizer,Levis,Beauty,Free Size,White
+168,Kids Jeans,Allen Solly,Kids,L,Beige
+169,Kids T-Shirts,Puma,Kids,XXL,Red
+170,Lipstick,Levis,Beauty,XXL,Red
+171,Heels,Fastrack,Women,M,Blue
+172,Kids Jeans,DressBerry,Kids,XXL,Green
+173,T-Shirts,Puma,Men,S,Yellow
+174,Handbags,Lakme,Women,L,Green
+175,Kids T-Shirts,Maybelline,Kids,M,Red
+176,Dresses,Anouk,Women,XXL,White
+177,Kids T-Shirts,Puma,Kids,M,Black
+178,Dresses,Puma,Women,L,Black
+179,Face Wash,Allen Solly,Beauty,M,Beige
+180,Dresses,Lakme,Women,XL,Black
+181,Cushion Covers,HERE&NOW,Home,XL,Blue
+182,Shirts,Mast & Harbour,Men,M,Pink
+183,Jeans,DressBerry,Men,M,Black
+184,Sports Shoes,Lakme,Men,L,Blue
+185,Heels,Adidas,Women,M,Yellow
+186,Sarees,Puma,Women,L,Blue
+187,Watches,H&M,Men,XS,White
+188,Jeans,Mast & Harbour,Men,M,Green
+189,Bedsheets,HERE&NOW,Home,XS,Pink
+190,T-Shirts,Maybelline,Men,XS,Green
+191,Trousers,H&M,Men,M,Black
+192,Kurtas,Puma,Women,S,Pink
+193,Shampoo,Anouk,Beauty,S,Red
+194,Tops,Anouk,Women,L,Blue
+195,Bath Towels,Fastrack,Home,S,Pink
+196,Kids Dresses,Adidas,Kids,M,White
+197,Watches,WROGN,Men,Free Size,Black
+198,Kurtas,HRX,Women,M,Pink
+199,Sarees,Levis,Women,XXL,Grey
+200,Bedsheets,WROGN,Home,XXL,Black
+201,Heels,DressBerry,Women,S,Beige
+202,Shirts,Fastrack,Men,S,Grey
+203,T-Shirts,Allen Solly,Men,XS,Pink
+204,Shirts,WROGN,Men,XS,Grey
+205,Wall Decor,Nike,Home,M,White
+206,Tops,WROGN,Women,L,Beige
+207,Tops,HRX,Women,L,Blue
+208,Perfume,HERE&NOW,Beauty,L,Pink
+209,Tops,Adidas,Women,XL,Yellow
+210,Sports Shoes,Nike,Men,L,Blue
+211,Face Wash,Puma,Beauty,L,Red
+212,Trousers,HRX,Men,XS,Blue
+213,Moisturizer,Fastrack,Beauty,XXL,White
+214,Bath Towels,DressBerry,Home,XXL,Pink
+215,Heels,Maybelline,Women,M,Pink
+216,Dresses,Adidas,Women,L,Blue
+217,Kurtas,H&M,Women,M,Beige
+218,Cushion Covers,Anouk,Home,S,Grey
+219,Kids Shoes,Anouk,Kids,M,White
+220,Sports Shoes,WROGN,Men,XL,Red
+221,Kurtas,HRX,Women,XS,Pink
+222,Trousers,HERE&NOW,Men,Free Size,Grey
+223,Perfume,DressBerry,Beauty,S,Blue
+224,Dresses,Puma,Women,Free Size,Green
+225,Face Wash,Maybelline,Beauty,M,Pink
+226,Kids Jeans,Fastrack,Kids,L,Beige
+227,Kurtas,Allen Solly,Women,XXL,Yellow
+228,Kids T-Shirts,HERE&NOW,Kids,M,Pink
+229,Kids Shoes,Maybelline,Kids,M,Black
+230,Sarees,Maybelline,Women,XL,Blue
+231,Face Wash,DressBerry,Beauty,M,Blue
+232,Heels,HERE&NOW,Women,M,Black
+233,Dresses,Anouk,Women,XXL,Beige
+234,Tops,Maybelline,Women,XL,White
+235,T-Shirts,Levis,Men,S,Beige
+236,Bath Towels,H&M,Home,M,Pink
+237,Heels,Nike,Women,Free Size,Pink
+238,Watches,DressBerry,Men,S,Red
+239,Heels,Allen Solly,Women,XL,Yellow
+240,Bath Towels,Roadster,Home,Free Size,Black
+241,Shirts,Puma,Men,Free Size,Blue
+242,Heels,Mast & Harbour,Women,M,Yellow
+243,Face Wash,HRX,Beauty,S,Green
+244,Lipstick,Adidas,Beauty,M,Pink
+245,Watches,HERE&NOW,Men,L,Grey
+246,Sports Shoes,Fastrack,Men,S,Beige
+247,T-Shirts,Anouk,Men,Free Size,Pink
+248,Handbags,Allen Solly,Women,XXL,Black
+249,Sarees,Mast & Harbour,Women,Free Size,Blue
+250,Kids Jeans,Puma,Kids,S,Blue
+251,Handbags,Allen Solly,Women,XS,Blue
+252,Bedsheets,Roadster,Home,XS,Yellow
+253,Dresses,Anouk,Women,S,Blue
+254,Kurtas,Puma,Women,XL,Blue
+255,Dresses,WROGN,Women,XS,White
+256,Trousers,Puma,Men,M,Beige
+257,Heels,Maybelline,Women,XXL,Pink
+258,Jeans,HRX,Men,XXL,Black
+259,Dresses,Anouk,Women,Free Size,Pink
+260,Moisturizer,Allen Solly,Beauty,XL,Pink
+261,Lipstick,Fastrack,Beauty,XL,Pink
+262,Kids T-Shirts,Anouk,Kids,Free Size,Black
+263,Dresses,Anouk,Women,Free Size,Blue
+264,Perfume,Mast & Harbour,Beauty,M,White
+265,Handbags,Mast & Harbour,Women,M,Beige
+266,Jeans,HERE&NOW,Men,L,Black
+267,Kurtas,Maybelline,Women,M,Grey
+268,Perfume,HERE&NOW,Beauty,L,Red
+269,Handbags,H&M,Women,XS,Beige
+270,Moisturizer,Levis,Beauty,S,Beige
+271,Trousers,HRX,Men,L,Grey
+272,Handbags,Lakme,Women,Free Size,White
+273,Bath Towels,WROGN,Home,XXL,Grey
+274,Face Wash,WROGN,Beauty,Free Size,Beige
+275,Moisturizer,Adidas,Beauty,M,White
+276,Shampoo,Maybelline,Beauty,L,Beige
+277,Kids Dresses,Fastrack,Kids,Free Size,Grey
+278,Lipstick,Adidas,Beauty,Free Size,Green
+279,Tops,Maybelline,Women,XXL,Grey
+280,Shampoo,WROGN,Beauty,XL,White
+281,Shampoo,H&M,Beauty,L,Black
+282,Face Wash,Levis,Beauty,M,Black
+283,Dresses,WROGN,Women,XXL,Grey
+284,Jeans,Puma,Men,XXL,Beige
+285,Heels,Adidas,Women,L,Blue
+286,Perfume,HRX,Beauty,L,Grey
+287,Sarees,Mast & Harbour,Women,M,Black
+288,Kids Dresses,Fastrack,Kids,S,Green
+289,Shampoo,Lakme,Beauty,XL,Pink
+290,Tops,H&M,Women,L,Black
+291,Perfume,Maybelline,Beauty,L,Blue
+292,Tops,WROGN,Women,XL,Grey
+293,T-Shirts,Levis,Men,XXL,Pink
+294,Face Wash,Roadster,Beauty,XL,Pink
+295,Shampoo,Puma,Beauty,S,Red
+296,Kids Dresses,HRX,Kids,XS,Blue
+297,Tops,Puma,Women,XXL,Green
+298,Watches,DressBerry,Men,Free Size,Grey
+299,Handbags,Nike,Women,XL,Pink
+300,Tops,Maybelline,Women,M,Blue
+301,Kids Jeans,DressBerry,Kids,XXL,Beige
+302,Wall Decor,Nike,Home,XL,Green
+303,Tops,HRX,Women,XS,Blue
+304,Jeans,H&M,Men,XXL,Black
+305,Lipstick,Adidas,Beauty,S,Grey
+306,Trousers,Maybelline,Men,XL,Green
+307,Shirts,WROGN,Men,XL,Green
+308,Trousers,Nike,Men,Free Size,White
+309,Kids T-Shirts,DressBerry,Kids,XS,Red
+310,Watches,H&M,Men,XL,Blue
+311,Sarees,HRX,Women,M,Beige
+312,Shirts,Levis,Men,S,Grey
+313,Wall Decor,Levis,Home,XL,Grey
+314,Kids Dresses,Adidas,Kids,XS,White
+315,Kurtas,Adidas,Women,Free Size,Yellow
+316,Trousers,HERE&NOW,Men,L,Red
+317,Shampoo,DressBerry,Beauty,L,Green
+318,Heels,Anouk,Women,XL,Red
+319,T-Shirts,HERE&NOW,Men,Free Size,Yellow
+320,Tops,H&M,Women,S,Blue
+321,Sarees,HERE&NOW,Women,XL,Red
+322,Lipstick,Anouk,Beauty,L,Grey
+323,Shirts,WROGN,Men,XXL,Pink
+324,Watches,Lakme,Men,Free Size,Beige
+325,Kids Dresses,Lakme,Kids,L,Pink
+326,Wall Decor,Lakme,Home,XS,Pink
+327,Watches,Lakme,Men,XS,Blue
+328,Handbags,Allen Solly,Women,S,Yellow
+329,Tops,Roadster,Women,XS,Blue
+330,Tops,H&M,Women,XL,Black
+331,Kurtas,DressBerry,Women,S,Beige
+332,Tops,Puma,Women,XL,Pink
+333,Heels,HERE&NOW,Women,S,Blue
+334,Handbags,Adidas,Women,XS,Beige
+335,Heels,WROGN,Women,S,Green
+336,Sarees,Fastrack,Women,XL,Blue
+337,Trousers,Mast & Harbour,Men,XS,Beige
+338,T-Shirts,HERE&NOW,Men,XXL,Yellow
+339,Watches,Fastrack,Men,M,Yellow
+340,T-Shirts,HRX,Men,L,Pink
+341,Shirts,WROGN,Men,Free Size,Green
+342,Bedsheets,Levis,Home,L,Black
+343,Watches,Roadster,Men,L,Grey
+344,Bedsheets,Adidas,Home,Free Size,Black
+345,Jeans,Maybelline,Men,XL,Yellow
+346,Handbags,Maybelline,Women,XS,Pink
+347,Watches,Maybelline,Men,L,Grey
+348,Moisturizer,Nike,Beauty,M,Yellow
+349,Shirts,Allen Solly,Men,Free Size,Yellow
+350,Tops,Maybelline,Women,XS,Red
+351,Kids Shoes,HRX,Kids,XXL,Green
+352,Cushion Covers,Maybelline,Home,Free Size,Grey
+353,Sarees,Mast & Harbour,Women,Free Size,Beige
+354,Sarees,H&M,Women,XS,Red
+355,Face Wash,Mast & Harbour,Beauty,S,Black
+356,Perfume,HRX,Beauty,M,Blue
+357,Jeans,Anouk,Men,XS,Black
+358,Watches,DressBerry,Men,XS,Green
+359,Handbags,Nike,Women,XXL,Black
+360,Heels,Lakme,Women,S,Grey
+361,Bedsheets,Roadster,Home,Free Size,Yellow
+362,Cushion Covers,HRX,Home,S,Black
+363,Shirts,DressBerry,Men,XS,Green
+364,Perfume,Nike,Beauty,S,Beige
+365,Tops,DressBerry,Women,Free Size,White
+366,Sarees,Anouk,Women,M,Beige
+367,Heels,Anouk,Women,M,Grey
+368,Dresses,Anouk,Women,XXL,Pink
+369,Kurtas,Adidas,Women,XXL,Blue
+370,Jeans,HRX,Men,S,Black
+371,Kurtas,Nike,Women,M,White
+372,Handbags,Levis,Women,XL,Black
+373,Bath Towels,H&M,Home,Free Size,Pink
+374,Dresses,WROGN,Women,XL,Red
+375,Sarees,HRX,Women,XS,Black
+376,Perfume,Fastrack,Beauty,XL,Green
+377,Watches,Puma,Men,S,Grey
+378,Shirts,WROGN,Men,XL,Red
+379,Kids Jeans,Fastrack,Kids,S,Black
+380,T-Shirts,Adidas,Men,XL,Pink
+381,Handbags,Anouk,Women,XS,Beige
+382,Trousers,Fastrack,Men,L,Black
+383,Shirts,Levis,Men,L,Red
+384,Tops,Puma,Women,XXL,White
+385,Handbags,Mast & Harbour,Women,M,Green
+386,Sarees,HERE&NOW,Women,M,Pink
+387,Heels,WROGN,Women,XS,Beige
+388,Shirts,HERE&NOW,Men,M,Yellow
+389,Sarees,H&M,Women,S,Green
+390,Watches,WROGN,Men,Free Size,Pink
+391,Kids Jeans,Mast & Harbour,Kids,L,Yellow
+392,Shirts,Nike,Men,XS,Green
+393,Sports Shoes,HRX,Men,Free Size,Red
+394,Perfume,DressBerry,Beauty,M,Pink
+395,Shirts,Nike,Men,Free Size,White
+396,Heels,Levis,Women,XL,Green
+397,Kids T-Shirts,HERE&NOW,Kids,XXL,Black
+398,Kids T-Shirts,HERE&NOW,Kids,Free Size,Green
+399,Shirts,HERE&NOW,Men,XL,Beige
+400,Kids Dresses,H&M,Kids,Free Size,Pink
+401,Dresses,Adidas,Women,M,Blue
+402,Kids Dresses,Nike,Kids,Free Size,Black
+403,Perfume,Anouk,Beauty,XS,Grey
+404,Dresses,H&M,Women,M,Pink
+405,Perfume,WROGN,Beauty,Free Size,Beige
+406,Kurtas,HRX,Women,XL,Beige
+407,Sarees,HRX,Women,M,Blue
+408,Kids Shoes,Lakme,Kids,XXL,Blue
+409,Watches,Puma,Men,M,Green
+410,Watches,WROGN,Men,XS,Blue
+411,Dresses,Nike,Women,XS,White
+412,Kids Dresses,Fastrack,Kids,Free Size,White
+413,Kurtas,WROGN,Women,S,Yellow
+414,Dresses,Mast & Harbour,Women,XXL,Blue
+415,Sports Shoes,Roadster,Men,M,Beige
+416,Watches,Fastrack,Men,M,White
+417,Tops,WROGN,Women,XS,Black
+418,Handbags,Levis,Women,XS,Red
+419,Kids Jeans,H&M,Kids,S,Green
+420,Cushion Covers,Adidas,Home,Free Size,Grey
+421,Perfume,Nike,Beauty,XXL,Blue
+422,Moisturizer,Lakme,Beauty,XXL,Beige
+423,Moisturizer,Puma,Beauty,XS,Grey
+424,Sports Shoes,Adidas,Men,XL,White
+425,Trousers,Nike,Men,L,Yellow
+426,Shampoo,Roadster,Beauty,Free Size,White
+427,Sarees,Levis,Women,XL,Beige
+428,Watches,HERE&NOW,Men,XL,Blue
+429,Sports Shoes,DressBerry,Men,M,Black
+430,Kids Shoes,Roadster,Kids,S,White
+431,Cushion Covers,HRX,Home,XL,Pink
+432,Heels,Fastrack,Women,S,Pink
+433,Face Wash,HERE&NOW,Beauty,XS,Yellow
+434,Kids Dresses,Allen Solly,Kids,XS,Yellow
+435,Handbags,Adidas,Women,M,White
+436,Face Wash,WROGN,Beauty,S,White
+437,Kids Shoes,Puma,Kids,M,Grey
+438,Bedsheets,Puma,Home,S,Black
+439,Bedsheets,Mast & Harbour,Home,XS,Black
+440,Trousers,DressBerry,Men,XS,Blue
+441,Watches,Puma,Men,XS,White
+442,Kids Jeans,Levis,Kids,XL,White
+443,Kurtas,Mast & Harbour,Women,L,Beige
+444,Sports Shoes,Roadster,Men,S,Yellow
+445,Shirts,Lakme,Men,M,Blue
+446,Heels,Maybelline,Women,L,White
+447,Sports Shoes,Nike,Men,S,White
+448,Kurtas,Mast & Harbour,Women,S,Green
+449,Kids Jeans,Puma,Kids,S,Yellow
+450,Tops,Adidas,Women,L,Pink
+451,Dresses,Fastrack,Women,M,Beige
+452,Dresses,Allen Solly,Women,Free Size,Grey
+453,Handbags,Roadster,Women,XS,Black
+454,Heels,Lakme,Women,XXL,Pink
+455,Tops,Mast & Harbour,Women,Free Size,Red
+456,Wall Decor,Adidas,Home,M,Blue
+457,Tops,HERE&NOW,Women,S,Green
+458,Dresses,WROGN,Women,S,Grey
+459,Perfume,Maybelline,Beauty,XXL,Beige
+460,Jeans,Adidas,Men,L,Blue
+461,Shampoo,Nike,Beauty,XS,White
+462,Wall Decor,HERE&NOW,Home,S,Yellow
+463,Dresses,Roadster,Women,Free Size,Yellow
+464,Tops,Fastrack,Women,Free Size,Yellow
+465,Trousers,Nike,Men,XXL,Yellow
+466,Trousers,Adidas,Men,XS,Green
+467,Kurtas,Adidas,Women,XS,Blue
+468,Shampoo,HRX,Beauty,Free Size,Blue
+469,Kurtas,HERE&NOW,Women,XL,Pink
+470,Kurtas,HERE&NOW,Women,Free Size,Grey
+471,Kurtas,Lakme,Women,S,White
+472,Dresses,Allen Solly,Women,Free Size,Red
+473,Jeans,HERE&NOW,Men,S,Pink
+474,Tops,Puma,Women,M,Blue
+475,Trousers,H&M,Men,Free Size,Green
+476,Kurtas,Mast & Harbour,Women,XXL,Pink
+477,Moisturizer,Maybelline,Beauty,XXL,Pink
+478,Sports Shoes,Puma,Men,M,Grey
+479,Sarees,H&M,Women,S,Pink
+480,Dresses,DressBerry,Women,L,Beige
+481,Watches,HERE&NOW,Men,S,Red
+482,Handbags,WROGN,Women,M,Beige
+483,Dresses,Mast & Harbour,Women,L,Pink
+484,Tops,Maybelline,Women,XL,Pink
+485,Moisturizer,Fastrack,Beauty,XS,Grey
+486,Dresses,HRX,Women,Free Size,Blue
+487,Heels,HERE&NOW,Women,XL,Yellow
+488,Kids T-Shirts,Adidas,Kids,XS,Black
+489,Kids Dresses,Nike,Kids,XS,Grey
+490,Dresses,Maybelline,Women,S,Beige
+491,Shirts,Lakme,Men,S,White
+492,Kurtas,DressBerry,Women,S,Pink
+493,Kurtas,Mast & Harbour,Women,XS,Red
+494,Kids Dresses,Levis,Kids,M,Grey
+495,Shirts,Anouk,Men,XXL,Grey
+496,Lipstick,DressBerry,Beauty,XXL,Beige
+497,Cushion Covers,Puma,Home,Free Size,Pink
+498,Heels,DressBerry,Women,L,Beige
+499,Kids Shoes,Nike,Kids,XL,Blue
+500,Shirts,DressBerry,Men,XL,Green
+501,Shirts,Roadster,Men,XL,Beige
+502,Bath Towels,Allen Solly,Home,Free Size,Yellow
+503,Jeans,Maybelline,Men,XL,Green
+504,Bath Towels,Anouk,Home,XS,Green
+505,Kurtas,Roadster,Women,M,White
+506,Kurtas,WROGN,Women,XL,Beige
+507,Kids Jeans,Adidas,Kids,Free Size,Black
+508,Watches,Levis,Men,S,Pink
+509,Jeans,Adidas,Men,M,Grey
+510,Kids Shoes,Adidas,Kids,L,Black
+511,Bath Towels,Puma,Home,Free Size,Red
+512,T-Shirts,HRX,Men,XXL,Green
+513,Kurtas,Mast & Harbour,Women,XXL,Black
+514,Trousers,Fastrack,Men,XS,Blue
+515,Perfume,Roadster,Beauty,M,Red
+516,T-Shirts,Allen Solly,Men,XS,Blue
+517,Shampoo,Maybelline,Beauty,L,White
+518,Tops,HERE&NOW,Women,Free Size,Black
+519,Dresses,Nike,Women,Free Size,White
+520,Dresses,Levis,Women,XL,Red
+521,Dresses,Puma,Women,Free Size,Red
+522,Kurtas,HRX,Women,XL,Black
+523,Bedsheets,H&M,Home,Free Size,Yellow
+524,Sarees,HERE&NOW,Women,XS,Blue
+525,Sarees,HRX,Women,S,Green
+526,Cushion Covers,Mast & Harbour,Home,XXL,Blue
+527,Handbags,Anouk,Women,M,Beige
+528,Perfume,Adidas,Beauty,XL,Green
+529,Face Wash,Allen Solly,Beauty,L,Blue
+530,Watches,Anouk,Men,XXL,Grey
+531,Heels,Nike,Women,XS,Green
+532,Trousers,Mast & Harbour,Men,L,Red
+533,T-Shirts,DressBerry,Men,L,Green
+534,Kids T-Shirts,Adidas,Kids,XS,Grey
+535,Tops,Allen Solly,Women,Free Size,Beige
+536,Heels,Fastrack,Women,L,Pink
+537,Trousers,Roadster,Men,XXL,Blue
+538,Cushion Covers,Fastrack,Home,M,Yellow
+539,Handbags,WROGN,Women,XS,Blue
+540,Kurtas,HRX,Women,M,Yellow
+541,Tops,H&M,Women,XXL,White
+542,Tops,Allen Solly,Women,XXL,White
+543,T-Shirts,Adidas,Men,S,White
+544,T-Shirts,Puma,Men,XS,Black
+545,Sarees,Levis,Women,XS,Green
+546,Watches,WROGN,Men,S,Yellow
+547,Moisturizer,Lakme,Beauty,S,Beige
+548,Heels,Puma,Women,S,Grey
+549,Watches,Adidas,Men,S,Yellow
+550,Kids Dresses,Lakme,Kids,M,Pink
+551,Sarees,Anouk,Women,XL,Blue
+552,Kids Shoes,Puma,Kids,S,Yellow
+553,T-Shirts,Roadster,Men,L,Yellow
+554,Heels,HRX,Women,Free Size,Beige
+555,Sarees,Nike,Women,Free Size,Pink
+556,Moisturizer,Roadster,Beauty,M,Pink
+557,Kids Dresses,Puma,Kids,XS,White
+558,Dresses,Lakme,Women,XXL,Pink
+559,Shampoo,Fastrack,Beauty,S,White
+560,Handbags,Roadster,Women,XS,Grey
+561,Cushion Covers,Nike,Home,S,Yellow
+562,T-Shirts,Roadster,Men,Free Size,Black
+563,Sports Shoes,Allen Solly,Men,M,Pink
+564,Kids Shoes,Levis,Kids,L,Pink
+565,Handbags,H&M,Women,S,Yellow
+566,Bedsheets,Adidas,Home,XXL,Green
+567,Handbags,Allen Solly,Women,XXL,Red
+568,Kids Shoes,Maybelline,Kids,XXL,Beige
+569,Heels,Levis,Women,Free Size,Beige
+570,Dresses,DressBerry,Women,XL,Red
+571,Handbags,Roadster,Women,XL,Red
+572,Shirts,Puma,Men,M,Yellow
+573,Cushion Covers,DressBerry,Home,S,Yellow
+574,Kids Shoes,Nike,Kids,XL,Pink
+575,Face Wash,Roadster,Beauty,M,White
+576,Kids Shoes,WROGN,Kids,XL,Beige
+577,Sports Shoes,WROGN,Men,S,Black
+578,Sarees,Roadster,Women,S,Black
+579,Jeans,Adidas,Men,XL,White
+580,Lipstick,Roadster,Beauty,S,Yellow
+581,Trousers,Nike,Men,XL,Yellow
+582,Heels,Allen Solly,Women,XS,Pink
+583,T-Shirts,H&M,Men,M,White
+584,Shampoo,Puma,Beauty,XL,Yellow
+585,Jeans,HERE&NOW,Men,XL,Yellow
+586,Heels,HRX,Women,S,Blue
+587,Perfume,Maybelline,Beauty,L,Black
+588,Perfume,HERE&NOW,Beauty,M,Beige
+589,Kurtas,Anouk,Women,M,White
+590,Bedsheets,Maybelline,Home,XL,Beige
+591,Trousers,Anouk,Men,XS,Blue
+592,Face Wash,DressBerry,Beauty,L,Blue
+593,Tops,Lakme,Women,S,Blue
+594,Sarees,Puma,Women,XS,White
+595,Wall Decor,Mast & Harbour,Home,XS,White
+596,Kurtas,DressBerry,Women,XL,White
+597,Sports Shoes,WROGN,Men,XXL,Pink
+598,Sports Shoes,Adidas,Men,XS,Grey
+599,Heels,Maybelline,Women,L,Pink
+600,Kids Shoes,Lakme,Kids,L,Blue
+601,Dresses,Levis,Women,S,Beige
+602,Heels,Levis,Women,Free Size,Black
+603,Bath Towels,Roadster,Home,XS,Yellow
+604,Sarees,Adidas,Women,S,White
+605,Sarees,Puma,Women,L,Pink
+606,Kurtas,Puma,Women,XS,Beige
+607,Tops,WROGN,Women,M,Grey
+608,Dresses,Puma,Women,XXL,Black
+609,Trousers,WROGN,Men,Free Size,Pink
+610,Sports Shoes,Maybelline,Men,L,Beige
+611,Dresses,WROGN,Women,XXL,Beige
+612,Trousers,Allen Solly,Men,XL,Blue
+613,Handbags,Roadster,Women,L,Blue
+614,Kids Shoes,Nike,Kids,XS,White
+615,Kids Dresses,H&M,Kids,XS,Red
+616,Handbags,DressBerry,Women,Free Size,Pink
+617,Bedsheets,Roadster,Home,L,Pink
+618,Trousers,Fastrack,Men,L,Green
+619,T-Shirts,Allen Solly,Men,S,Yellow
+620,Perfume,DressBerry,Beauty,XXL,Pink
+621,Tops,HRX,Women,M,White
+622,T-Shirts,Allen Solly,Men,XS,Red
+623,Perfume,Anouk,Beauty,M,Blue
+624,Dresses,HERE&NOW,Women,XXL,Blue
+625,Tops,HRX,Women,XS,Beige
+626,Sports Shoes,Adidas,Men,XS,White
+627,T-Shirts,Anouk,Men,XL,Green
+628,Kurtas,Fastrack,Women,L,Blue
+629,Sarees,Maybelline,Women,M,Pink
+630,Sports Shoes,WROGN,Men,M,Black
+631,Kids Dresses,Maybelline,Kids,S,Red
+632,Bath Towels,Puma,Home,Free Size,Beige
+633,Tops,Anouk,Women,S,Grey
+634,Perfume,Mast & Harbour,Beauty,L,Grey
+635,Moisturizer,Adidas,Beauty,L,Black
+636,Jeans,Allen Solly,Men,XS,Red
+637,Kurtas,Lakme,Women,XL,Green
+638,Moisturizer,Puma,Beauty,L,Grey
+639,Lipstick,DressBerry,Beauty,XS,Grey
+640,Tops,HRX,Women,Free Size,White
+641,Sarees,H&M,Women,XXL,Pink
+642,Dresses,Lakme,Women,M,Grey
+643,Handbags,Maybelline,Women,L,Blue
+644,Trousers,Puma,Men,M,Green
+645,Watches,H&M,Men,XL,Yellow
+646,Trousers,Lakme,Men,Free Size,Yellow
+647,Shampoo,WROGN,Beauty,XXL,Beige
+648,Trousers,Maybelline,Men,Free Size,Red
+649,Shampoo,Nike,Beauty,L,White
+650,T-Shirts,Nike,Men,XL,Pink
+651,Shirts,H&M,Men,XL,Blue
+652,Shampoo,Anouk,Beauty,Free Size,Green
+653,Handbags,Nike,Women,XXL,Grey
+654,Tops,Fastrack,Women,L,Red
+655,Shampoo,DressBerry,Beauty,XXL,Red
+656,Shampoo,Anouk,Beauty,Free Size,Black
+657,Shirts,Nike,Men,XS,Yellow
+658,Sarees,HERE&NOW,Women,XS,Beige
+659,Cushion Covers,Mast & Harbour,Home,M,Blue
+660,Face Wash,Levis,Beauty,M,Blue
+661,Dresses,Fastrack,Women,Free Size,Black
+662,Jeans,Levis,Men,S,White
+663,Dresses,HERE&NOW,Women,Free Size,Red
+664,Shirts,Mast & Harbour,Men,XXL,White
+665,Heels,WROGN,Women,XXL,Black
+666,Trousers,Levis,Men,XL,Pink
+667,Kids Dresses,Levis,Kids,L,Black
+668,T-Shirts,Lakme,Men,L,Grey
+669,Sarees,Nike,Women,L,Yellow
+670,Kurtas,Fastrack,Women,L,Pink
+671,Heels,HERE&NOW,Women,XS,Green
+672,Kids T-Shirts,Mast & Harbour,Kids,L,White
+673,Kurtas,Roadster,Women,Free Size,Pink
+674,Handbags,Maybelline,Women,Free Size,Green
+675,Kurtas,Nike,Women,M,Grey
+676,Lipstick,Lakme,Beauty,Free Size,Black
+677,Bedsheets,Lakme,Home,M,Grey
+678,Kurtas,Puma,Women,L,Yellow
+679,Heels,Anouk,Women,Free Size,Green
+680,T-Shirts,Adidas,Men,S,Red
+681,Tops,Levis,Women,S,Beige
+682,Perfume,Adidas,Beauty,XS,Yellow
+683,Heels,Anouk,Women,XL,Beige
+684,Kids Jeans,WROGN,Kids,Free Size,Black
+685,Kurtas,Allen Solly,Women,M,Black
+686,Watches,H&M,Men,L,Blue
+687,Tops,Puma,Women,S,White
+688,Kids Jeans,Adidas,Kids,XXL,Red
+689,Bath Towels,WROGN,Home,M,Beige
+690,Heels,HRX,Women,M,Grey
+691,T-Shirts,Nike,Men,L,Blue
+692,Shirts,Puma,Men,L,Blue
+693,Shirts,Puma,Men,XS,Grey
+694,Kids Shoes,Levis,Kids,M,Grey
+695,Sports Shoes,Levis,Men,L,Green
+696,Watches,Mast & Harbour,Men,XL,Green
+697,Tops,Lakme,Women,Free Size,Yellow
+698,Kids Dresses,Nike,Kids,L,Yellow
+699,Trousers,Lakme,Men,XS,Green
+700,Kids Dresses,Mast & Harbour,Kids,M,Blue
+701,Watches,Adidas,Men,XS,Blue
+702,Sarees,Puma,Women,Free Size,Pink
+703,Trousers,Maybelline,Men,M,Yellow
+704,Lipstick,Mast & Harbour,Beauty,XL,Beige
+705,Moisturizer,DressBerry,Beauty,XS,Red
+706,Sarees,Fastrack,Women,XXL,Blue
+707,Sports Shoes,H&M,Men,M,Red
+708,Kids T-Shirts,Nike,Kids,S,Green
+709,T-Shirts,Allen Solly,Men,XL,Green
+710,Heels,Lakme,Women,XS,Yellow
+711,Lipstick,Adidas,Beauty,S,White
+712,Moisturizer,Allen Solly,Beauty,XL,Red
+713,Kurtas,WROGN,Women,XXL,Green
+714,Kurtas,Lakme,Women,Free Size,Black
+715,Sports Shoes,DressBerry,Men,S,Pink
+716,Shirts,Fastrack,Men,M,Yellow
+717,Bath Towels,Maybelline,Home,XXL,Red
+718,Sarees,HRX,Women,XS,Green
+719,Cushion Covers,Adidas,Home,XL,Beige
+720,Kids Dresses,Roadster,Kids,L,Yellow
+721,T-Shirts,Lakme,Men,XS,Beige
+722,Watches,HERE&NOW,Men,XXL,Blue
+723,Bath Towels,Fastrack,Home,S,Beige
+724,Dresses,Maybelline,Women,Free Size,Pink
+725,Lipstick,Fastrack,Beauty,XXL,Green
+726,Moisturizer,Puma,Beauty,XS,White
+727,T-Shirts,Fastrack,Men,M,Yellow
+728,Shirts,Anouk,Men,S,Black
+729,Watches,Adidas,Men,S,Beige
+730,Perfume,DressBerry,Beauty,S,Black
+731,Sarees,Nike,Women,M,Pink
+732,Bath Towels,Mast & Harbour,Home,M,Grey
+733,Kurtas,Puma,Women,XS,Grey
+734,Handbags,Puma,Women,XS,Grey
+735,Kids T-Shirts,Levis,Kids,S,Beige
+736,Handbags,Roadster,Women,XS,Blue
+737,Sarees,Lakme,Women,XXL,Black
+738,Heels,HRX,Women,Free Size,Red
+739,Shampoo,Maybelline,Beauty,XXL,Red
+740,Kids Jeans,Allen Solly,Kids,XXL,Red
+741,Kids Jeans,Fastrack,Kids,M,Blue
+742,Shirts,Lakme,Men,M,Grey
+743,Wall Decor,Puma,Home,L,Red
+744,Sarees,DressBerry,Women,XL,White
+745,Heels,Levis,Women,S,Yellow
+746,Perfume,Maybelline,Beauty,L,Yellow
+747,Tops,Fastrack,Women,XS,White
+748,Heels,HERE&NOW,Women,S,Green
+749,Face Wash,Allen Solly,Beauty,Free Size,Beige
+750,Face Wash,Allen Solly,Beauty,M,White
+751,Heels,HRX,Women,XXL,Pink
+752,Kids Dresses,Fastrack,Kids,XL,Yellow
+753,Trousers,Nike,Men,Free Size,Black
+754,Sarees,HRX,Women,S,Blue
+755,Bedsheets,Allen Solly,Home,XL,Black
+756,Kids T-Shirts,WROGN,Kids,S,Green
+757,Dresses,HRX,Women,M,Red
+758,Kurtas,Mast & Harbour,Women,S,Pink
+759,Face Wash,HRX,Beauty,Free Size,Yellow
+760,Tops,Allen Solly,Women,XL,Grey
+761,Kids Shoes,Allen Solly,Kids,XXL,Grey
+762,Bedsheets,Mast & Harbour,Home,M,Green
+763,Heels,Allen Solly,Women,L,Red
+764,Lipstick,Maybelline,Beauty,Free Size,Black
+765,Trousers,Fastrack,Men,Free Size,Red
+766,Bath Towels,Roadster,Home,XXL,Pink
+767,Kurtas,Mast & Harbour,Women,XS,White
+768,Trousers,H&M,Men,XXL,Yellow
+769,T-Shirts,WROGN,Men,Free Size,Green
+770,Heels,Allen Solly,Women,L,Grey
+771,Watches,Allen Solly,Men,Free Size,Black
+772,Heels,Nike,Women,S,Blue
+773,Tops,Mast & Harbour,Women,S,Grey
+774,Bedsheets,HERE&NOW,Home,M,Beige
+775,Kurtas,Anouk,Women,S,Blue
+776,Kurtas,H&M,Women,L,Green
+777,Perfume,HRX,Beauty,M,Black
+778,Kids T-Shirts,Maybelline,Kids,M,Green
+779,Tops,Adidas,Women,XS,Black
+780,Trousers,Lakme,Men,L,Pink
+781,Kids Shoes,Puma,Kids,L,White
+782,Bedsheets,HERE&NOW,Home,XS,Black
+783,Cushion Covers,Adidas,Home,M,Yellow
+784,Tops,WROGN,Women,XXL,White
+785,Kids Shoes,Lakme,Kids,M,Beige
+786,Watches,Adidas,Men,M,Blue
+787,Sarees,Mast & Harbour,Women,XL,Green
+788,Face Wash,HERE&NOW,Beauty,XS,Pink
+789,Jeans,Roadster,Men,L,Black
+790,Kids Dresses,WROGN,Kids,M,Beige
+791,Bath Towels,Lakme,Home,XL,Beige
+792,Perfume,Lakme,Beauty,XXL,Blue
+793,Watches,HRX,Men,XS,Blue
+794,Jeans,HERE&NOW,Men,XS,Red
+795,Sarees,Allen Solly,Women,XL,Yellow
+796,Kurtas,Adidas,Women,L,Grey
+797,Lipstick,HERE&NOW,Beauty,Free Size,White
+798,Tops,HERE&NOW,Women,XS,Red
+799,Handbags,WROGN,Women,L,Beige
+800,Moisturizer,Fastrack,Beauty,S,Pink
+801,Jeans,Puma,Men,S,Black
+802,Watches,Anouk,Men,L,White
+803,T-Shirts,Lakme,Men,XL,Blue
+804,Dresses,Levis,Women,L,Beige
+805,Moisturizer,HRX,Beauty,M,Yellow
+806,Shirts,Maybelline,Men,M,White
+807,Moisturizer,HERE&NOW,Beauty,Free Size,Grey
+808,Kurtas,H&M,Women,Free Size,Pink
+809,Wall Decor,Puma,Home,L,White
+810,Sports Shoes,HERE&NOW,Men,XS,Beige
+811,Heels,HRX,Women,XXL,Yellow
+812,Sarees,Lakme,Women,XS,Black
+813,Handbags,HRX,Women,XS,Grey
+814,Trousers,WROGN,Men,XS,Green
+815,Handbags,Roadster,Women,S,White
+816,Handbags,HERE&NOW,Women,XL,Blue
+817,Heels,Adidas,Women,S,Black
+818,Trousers,Lakme,Men,S,Blue
+819,Tops,HERE&NOW,Women,L,White
+820,Tops,Adidas,Women,Free Size,Blue
+821,Heels,Nike,Women,XXL,Pink
+822,Kids Dresses,HRX,Kids,L,Blue
+823,Tops,Nike,Women,S,White
+824,Sarees,HERE&NOW,Women,M,Blue
+825,Perfume,Maybelline,Beauty,XS,Blue
+826,Moisturizer,DressBerry,Beauty,XS,White
+827,Trousers,HRX,Men,S,Blue
+828,Dresses,DressBerry,Women,L,Red
+829,T-Shirts,H&M,Men,L,Yellow
+830,Lipstick,HERE&NOW,Beauty,S,Pink
+831,T-Shirts,Anouk,Men,XXL,Yellow
+832,Tops,Fastrack,Women,Free Size,Grey
+833,Heels,H&M,Women,M,Blue
+834,Shirts,Maybelline,Men,Free Size,Red
+835,Handbags,HERE&NOW,Women,XL,Pink
+836,Tops,DressBerry,Women,XL,Black
+837,Shirts,Adidas,Men,S,Yellow
+838,Sarees,H&M,Women,L,Blue
+839,Jeans,Fastrack,Men,L,Beige
+840,Kids Shoes,Maybelline,Kids,XL,Yellow
+841,Face Wash,Allen Solly,Beauty,XXL,Yellow
+842,Kurtas,Anouk,Women,S,Beige
+843,Bedsheets,Lakme,Home,L,White
+844,Sports Shoes,HRX,Men,XL,Blue
+845,Tops,Adidas,Women,XL,Beige
+846,Kids Jeans,Mast & Harbour,Kids,Free Size,Red
+847,Perfume,DressBerry,Beauty,XL,Pink
+848,Kids T-Shirts,Allen Solly,Kids,S,Beige
+849,Handbags,Puma,Women,M,Green
+850,Dresses,Anouk,Women,XXL,Black
+851,Bedsheets,Puma,Home,XS,Blue
+852,Tops,WROGN,Women,Free Size,Beige
+853,Watches,HRX,Men,S,Red
+854,Handbags,HRX,Women,S,Red
+855,Kids Shoes,Allen Solly,Kids,XS,White
+856,Kids Shoes,HERE&NOW,Kids,M,Blue
+857,Watches,Mast & Harbour,Men,L,Pink
+858,Kurtas,H&M,Women,L,Beige
+859,Bath Towels,Lakme,Home,XL,Black
+860,Sarees,Adidas,Women,S,Black
+861,Shirts,HERE&NOW,Men,Free Size,Red
+862,Sports Shoes,Maybelline,Men,XS,Red
+863,Face Wash,Roadster,Beauty,S,Black
+864,Sarees,Maybelline,Women,XL,White
+865,Sarees,Maybelline,Women,XL,Black
+866,T-Shirts,Allen Solly,Men,L,Blue
+867,Moisturizer,Maybelline,Beauty,M,Grey
+868,Kids Shoes,Adidas,Kids,XS,White
+869,Bedsheets,Roadster,Home,M,Beige
+870,Heels,WROGN,Women,S,Red
+871,T-Shirts,HRX,Men,XXL,Red
+872,Sarees,Nike,Women,XXL,Black
+873,Kurtas,Fastrack,Women,Free Size,Pink
+874,Jeans,Roadster,Men,S,Yellow
+875,Heels,Lakme,Women,XXL,Red
+876,Cushion Covers,Puma,Home,Free Size,Grey
+877,Perfume,Allen Solly,Beauty,Free Size,White
+878,Dresses,Anouk,Women,XXL,Grey
+879,Shirts,DressBerry,Men,XL,White
+880,Jeans,HERE&NOW,Men,XS,Blue
+881,Sports Shoes,Nike,Men,S,Grey
+882,Shirts,Fastrack,Men,XS,Green
+883,Shampoo,Fastrack,Beauty,XL,Red
+884,Kids Jeans,Mast & Harbour,Kids,L,Green
+885,Wall Decor,DressBerry,Home,XS,Red
+886,Handbags,Roadster,Women,XXL,Blue
+887,Trousers,H&M,Men,L,Green
+888,Kids Dresses,Maybelline,Kids,XL,Black
+889,Kids Shoes,Mast & Harbour,Kids,XXL,Grey
+890,Jeans,H&M,Men,XL,Grey
+891,Moisturizer,Maybelline,Beauty,Free Size,Beige
+892,Perfume,HRX,Beauty,S,Black
+893,Kids Jeans,Fastrack,Kids,XXL,Pink
+894,Bedsheets,HRX,Home,XL,Grey
+895,Jeans,Roadster,Men,Free Size,Yellow
+896,Bedsheets,Anouk,Home,L,Red
+897,Jeans,Adidas,Men,XXL,Green
+898,Cushion Covers,HRX,Home,XXL,Black
+899,Sarees,Mast & Harbour,Women,XXL,Pink
+900,Sports Shoes,Lakme,Men,XL,White
+901,Kids Jeans,Maybelline,Kids,L,Grey
+902,Kids T-Shirts,HRX,Kids,L,Green
+903,Trousers,H&M,Men,XL,Pink
+904,Heels,Nike,Women,S,Red
+905,Wall Decor,Roadster,Home,Free Size,White
+906,Heels,Mast & Harbour,Women,M,Pink
+907,Kids Shoes,HRX,Kids,XS,Blue
+908,Shirts,Mast & Harbour,Men,S,Pink
+909,Kurtas,Mast & Harbour,Women,XXL,White
+910,Perfume,Roadster,Beauty,XL,Green
+911,Watches,Mast & Harbour,Men,S,Green
+912,Bath Towels,HRX,Home,Free Size,Beige
+913,Shirts,Puma,Men,S,Blue
+914,Dresses,HERE&NOW,Women,M,Black
+915,Shirts,Adidas,Men,XS,Yellow
+916,Heels,H&M,Women,XL,Pink
+917,Shirts,Anouk,Men,Free Size,Black
+918,Lipstick,HERE&NOW,Beauty,XS,Pink
+919,Tops,DressBerry,Women,Free Size,Yellow
+920,Tops,Roadster,Women,XS,Yellow
+921,Watches,HRX,Men,M,Red
+922,Jeans,Levis,Men,XS,Red
+923,Kurtas,Fastrack,Women,XXL,Pink
+924,Kurtas,Levis,Women,XS,Grey
+925,T-Shirts,HERE&NOW,Men,S,Blue
+926,Bath Towels,DressBerry,Home,S,Blue
+927,Sarees,Mast & Harbour,Women,M,Red
+928,Kids Jeans,Anouk,Kids,XL,Beige
+929,Bedsheets,HRX,Home,XS,Red
+930,Wall Decor,Mast & Harbour,Home,XS,Black
+931,Lipstick,Levis,Beauty,Free Size,Red
+932,Sarees,Nike,Women,XS,Yellow
+933,Lipstick,HERE&NOW,Beauty,XL,Beige
+934,Watches,HRX,Men,XS,Yellow
+935,Kids T-Shirts,Fastrack,Kids,M,Beige
+936,Moisturizer,Lakme,Beauty,XS,Grey
+937,Sarees,HERE&NOW,Women,Free Size,Grey
+938,Shirts,Levis,Men,S,Red
+939,Tops,Maybelline,Women,M,Grey
+940,Heels,Adidas,Women,XS,Blue
+941,Watches,Allen Solly,Men,XXL,Beige
+942,Shampoo,HERE&NOW,Beauty,XL,Beige
+943,Kids Dresses,Allen Solly,Kids,XS,Green
+944,Perfume,HERE&NOW,Beauty,L,Beige
+945,Kurtas,DressBerry,Women,L,Beige
+946,Tops,Allen Solly,Women,L,Yellow
+947,Trousers,Fastrack,Men,XL,Beige
+948,Bath Towels,Lakme,Home,M,Grey
+949,Sports Shoes,Allen Solly,Men,XL,Grey
+950,Sarees,HRX,Women,XXL,Red
+951,Dresses,Roadster,Women,XS,Black
+952,Shampoo,WROGN,Beauty,Free Size,Yellow
+953,Handbags,Anouk,Women,XL,Grey
+954,Sarees,HRX,Women,S,Yellow
+955,Cushion Covers,Mast & Harbour,Home,L,Pink
+956,Kids Dresses,Puma,Kids,XXL,Grey
+957,Sports Shoes,Mast & Harbour,Men,XXL,Pink
+958,Kids Jeans,Nike,Kids,M,White
+959,Heels,Allen Solly,Women,L,Yellow
+960,Trousers,Allen Solly,Men,S,Yellow
+961,Sarees,Fastrack,Women,XS,Grey
+962,T-Shirts,Fastrack,Men,XL,Grey
+963,Dresses,Maybelline,Women,L,Green
+964,Lipstick,Fastrack,Beauty,XS,Blue
+965,Jeans,WROGN,Men,M,Pink
+966,Kids T-Shirts,HRX,Kids,XXL,Pink
+967,Kurtas,Fastrack,Women,M,Blue
+968,Bedsheets,Levis,Home,Free Size,White
+969,Trousers,Roadster,Men,XXL,Grey
+970,Lipstick,Puma,Beauty,S,Green
+971,Sarees,Allen Solly,Women,XXL,Blue
+972,Sarees,WROGN,Women,XL,Beige
+973,T-Shirts,Levis,Men,S,Yellow
+974,Jeans,DressBerry,Men,XL,Pink
+975,Kids T-Shirts,Nike,Kids,XXL,Pink
+976,Sarees,Fastrack,Women,Free Size,Beige

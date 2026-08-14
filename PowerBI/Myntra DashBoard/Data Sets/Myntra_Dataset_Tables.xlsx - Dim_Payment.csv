@@ -1,0 +1,7 @@
+Payment_Key,Payment_Method
+1,Cash on Delivery
+2,Credit Card
+3,Debit Card
+4,Net Banking
+5,UPI
+6,Wallet
