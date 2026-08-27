@@ -212,14 +212,16 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 <details>
 <summary><strong>📁 Practice Datasets</strong></summary>
 
-* Sales
-* Employees
-* Customers
-* Orders
-* Banking
-* Healthcare
-* Retail
-* Finance
+| Dataset | Google Sheets |
+|---------|---------------|
+| 📊 Sales | [Open Sheet](https://docs.google.com/spreadsheets/d/1a6708ipBar3ccbxVJaD2EB2-96jZrf2zTHh_pB3MVM4/edit?usp=drive_link) |
+| 👨‍💼 Employees | [Open Sheet](https://docs.google.com/spreadsheets/d/1jF7RMn_wuk7E_8DPb8NUpnDr97DQ9-Zo27gD9U1ecOE/edit?usp=drive_link) |
+| 👥 Customers | [Open Sheet](https://docs.google.com/spreadsheets/d/1x_CTGzkPaoR0DDy6NtWEN9KHw4yoSExy1A2sc95nEsU/edit?usp=drive_link) |
+| 🛒 Orders | [Open Sheet](https://docs.google.com/spreadsheets/d/1-ClDVoYlDN9fnQngKPiV4vsKLMEyof8nbctyiS7A7yo/edit?usp=sharing) |
+| 🏦 Banking | [Open Sheet](https://docs.google.com/spreadsheets/d/1GQG_tJxOTVaJCF1v53efhBdFA0ge1Aqfe6U-PpeZhEA/edit?usp=sharing) |
+| 🏥 Healthcare | [Open Sheet](https://docs.google.com/spreadsheets/d/14rrPqT8KNSd7Vnx8GowB4yd95XVIS08Bvb4p7s0jPvg/edit?usp=sharing) |
+| 🛍️ Retail | [Open Sheet](https://docs.google.com/spreadsheets/d/1eIa4OF8W83caN6Ilug1tKDwD1e5dY7KWrITXc9DXZzA/edit?usp=sharing) |
+| 💰 Finance | [Open Sheet](https://docs.google.com/spreadsheets/d/1iVUcIUQGlP4na4a2ek8srpsXje-DCekjH8F0WHWDmnI/edit?usp=sharing) |
 
 </details>
 
@@ -227,7 +229,7 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 
 ## 💼 Interview Preparation
 
-* 📄 [Excel Interview Questions](Interview/Excel_Interview_Questions.md)
+* 📄 [Excel Interview Questions](Interview/Excel_Interview_Questions.m)
 * 📄 [SQL Interview Questions](Interview/SQL_Interview_Questions.md)
 * 📄 [Power BI Interview Questions](Interview/PowerBI_Interview_Questions.md)
 * 📄 [Tableau Interview Questions](Interview/Tableau_Interview_Questions.md)
