@@ -1,9 +1,8 @@
-# 🗄️ SQL Interview Questions & Answers
+#                                       🗄️ SQL Interview Questions & Answers
 ### Complete SQL Interview Preparation — Fresher to Experienced
 
 ![SQL](https://img.shields.io/badge/SQL-Interview%20Preparation-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-Interview%20Preparation-green?style=for-the-badge)
 ![Beginner](https://img.shields.io/badge/Level-Fresher-orange?style=for-the-badge)
 ![Advanced](https://img.shields.io/badge/Level-Experienced-red?style=for-the-badge)
 
