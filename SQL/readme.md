@@ -101,7 +101,6 @@ HAVING COUNT(OrderID) > 5;
 ---
 
 ## 📑 6. Subqueries
-sql
 -- Simple subquery
 SELECT CustomerName
 FROM Customers
@@ -128,7 +127,6 @@ Triggers: Automate actions on events
 ---
 
 ## 📈 8. Window Functions
-sql
 -- ROW_NUMBER
 SELECT CustomerID, OrderID,
        ROW_NUMBER() OVER (PARTITION BY CustomerID ORDER BY OrderDate) AS RowNum
