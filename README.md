@@ -1,6 +1,9 @@
 <div align="center">
 
-# 📊 Data Analyst Notes
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=%F0%9F%93%8A%20Data%20Analyst%20Notes&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=twinkling&color=0:0F172A,35:1D4ED8,70:0891B2,100:14B8A6" width="100%"/>
+</div>
 
 ### 🚀 Master Data Analytics from Beginner to Advanced
 
