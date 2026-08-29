@@ -231,12 +231,10 @@ Welcome to **Data Analyst Notes** – a one-stop repository for learning and rev
 
 - 📊 [Excel Interview Questions & Answers](./Excel/Interview%20Questions/%F0%9F%93%8A%20Excel%20Interview%20Questions%20%26%20Answers.md)
 - 🗃️ [SQL Interview Questions & Answers](./SQL/Interview%20Questions/SQL%20Interview%20Questions%20%26%20Answers%20%E2%80%94%20Fresher%20to%20Experienced.md))
-- 📈 [Power BI Interview Questions & Answers](./Excel/Interview%20Questions/PowerBI%20Interview%20Questions%20%26%20Answers.md)
-- 📉 [Tableau Interview Questions & Answers](./Excel/Interview%20Questions/Tableau%20Interview%20Questions%20%26%20Answers.md)
-- 🐍 [Python Interview Questions & Answers](./Excel/Interview%20Questions/Python%20Interview%20Questions%20%26%20Answers.md)
+- 📈 [Power BI Interview Questions & Answers](PowerBI/Interview%20Question/📈%20Power%20BI%20Interview%20Questions%20%26%20Answers%20—%20Fresher%20to%20Experienced.md))
+- 📉 [Tableau Interview Questions & Answers](Tableau/Interview%20Question/📊%20Tableau%20Interview%20Questions%20%26%20Answers%20—%20Fresher%20to%20Experienced.md))
+- 🐍 [Python Interview Questions & Answers](Python/Interview%20Questions/🐍%20Python%20Interview%20Questions%20%26%20Answers%20—%20Fresher%20to%20Experienced.md))
 - 📐 [Statistics Interview Questions & Answers](./Excel/Interview%20Questions/Statistics%20Interview%20Questions%20%26%20Answers.md)
-- 💡 [Scenario-Based Interview Questions](./Excel/Interview%20Questions/Scenario-Based%20Interview%20Questions.md)
-- 🧩 [Case Studies](./Excel/Interview%20Questions/Case%20Studies.md)
 
 ---
 
