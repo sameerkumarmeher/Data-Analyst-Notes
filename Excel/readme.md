@@ -1,4 +1,7 @@
 <h1 align="center">📊 Excel Notes & Cheat Sheet</h1>
+
+
+## 📌 Overview
 This repository contains a **comprehensive set of Excel notes and formulas** for quick reference.  
 It covers essential functions, data analysis techniques, and productivity tips — perfect for interview prep, daily work, or study.
 
