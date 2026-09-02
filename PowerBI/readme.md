@@ -1,4 +1,4 @@
-# 📊 Power BI Notes & Cheat Sheet
+<h1 align="center">📊 Power BI Notes & Cheat Sheet</h1>
 
 ## 📌 Overview
 This repository contains a **comprehensive set of Power BI notes** ranging from beginner concepts to advanced techniques.  
