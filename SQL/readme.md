@@ -1,4 +1,4 @@
-# 🗄️ SQL Notes & Cheat Sheet
+<h1 align="center"> 🗄️ SQL Notes & Cheat Sheet </h1>
 
 ## 📌 Overview
 This repository contains a **comprehensive set of SQL notes** ranging from beginner queries to advanced concepts.  
